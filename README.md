@@ -14,7 +14,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [qr-code-component-1cpnxm2dx-cryodelta.vercel.app](qr-code-component-1cpnxm2dx-cryodelta.vercel.app)
+- Solution URL: [https://qr-code-component-cryodelta.vercel.app](https://qr-code-component-cryodelta.vercel.app)
 
 ## My process
 
